@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/6oRG106.jpeg"
+      "value": "⦓ Ⓒ𝐀𝐫𝐜𝐭𝐢𝐱-𝐀𝐈™ ⦔;Royce_Bob;254718241545;https://i.imgur.com/NrPSMFY.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": false,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "Royce_Bob;⦓ Ⓒ𝐀𝐫𝐜𝐭𝐢𝐱-𝐀𝐈™ ⦔"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": false,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/fj2WE83.jpeg"
+      "value": "Royce_Bob;⦓ Ⓒ𝐀𝐫𝐜𝐭𝐢𝐱-𝐀𝐈™ ⦔;https://i.imgur.com/fj2WE83.jpeg"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
